@@ -1,5 +1,7 @@
 # Image-Classification-using-Alexnet_CNN_model
 
+## Fine tunned model of Alexnet_CNN_model on small pokemon dataset
+
 # About model
 AlexNet is the name of a convolutional neural network (CNN), designed by Alex Krizhevsky.
 AlexNet competed in the ImageNet Large Scale Visual Recognition Challenge on September 30, 2012.[4] The network achieved a top-5 error of 15.3%, more than 10.8 percentage points lower than that of the runner up.
