@@ -6,3 +6,5 @@ AlexNet competed in the ImageNet Large Scale Visual Recognition Challenge on Sep
 
 # Architecture
  AlexNet contained eight layers; the first five were convolutional layers, some of them followed by max-pooling layers, and the last three were fully connected layers.[3] It used the non-saturating ReLU activation function, which showed improved training performance over tanh and sigmoid
+
+![](AlexNet_Summary_Table.jpg)
